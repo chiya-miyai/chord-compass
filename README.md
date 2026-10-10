@@ -3,6 +3,7 @@
 
 
 - ▶ **Try it:** https://chiya-miyai.github.io/chord-compass/
+- 🎬 **Demo video:** https://chiya-miyai.github.io/chord-compass/demo.mp4
 
 ## About
 
